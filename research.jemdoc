@@ -1,0 +1,105 @@
+# jemdoc: menu{MENU}{research.html}
+=Research
+
+~~~
+{}
+See also [https://scholar.google.nl/citations?user=G7ok8mYAAAAJ&hl=en my Google Scholar profile] and [https://www.researchgate.net/profile/Junjie_Jiao3 my ResearchGate profile].
+
+~~~
+
+== Distributed learning-based control using Gaussian processes
+The text goes here...
+
+~~~
+{Selected publications:}
+. [https://arxiv.org/abs/2103.15929 Distributed learning consensus control for unknown nonlinear multi-agent systems based on Gaussian processes]\n
+Zewen Yang, Stefan Sosnowski, Qingchen Liu, *Junjie Jiao*, Armin Lederer, and Sandra Hirche\n
+accepted by the /* 60th IEEE Conference on Decision and Control*/, 2021. \[[https://arxiv.org/pdf/2103.15929.pdf PDF]\]
+. Cooperative control of uncertain multi-agent systems via distributed Gaussian processes\n
+Armin Lederer, Zewen Yang, *Junjie Jiao*, and Sandra Hirche\n
+submitted for publication in /*IEEE Transactions on Automatic Control*/, 2021.
+~~~
+
+
+== Distributed data-driven control
+The text goes here...
+
+~~~
+{Selected publications:}
+See also [https://scholar.google.nl/citations?user=G7ok8mYAAAAJ&hl=en my Google Scholar profile] and [https://www.researchgate.net/profile/Junjie_Jiao3 my ResearchGate profile].
+~~~
+
+
+== Distributed Linear quadratic control
+
+The text goes here...
+
+~~~
+{Selected publications:}
+See also [https://scholar.google.nl/citations?user=G7ok8mYAAAAJ&hl=en my Google Scholar profile] and [https://www.researchgate.net/profile/Junjie_Jiao3 my ResearchGate profile].
+~~~
+
+. Distributed optimal control with recovered robustness for uncertain network systems: a complementary design approach\n 
+Zhongkui Li, *Junjie Jiao*, and Xiang Chen\n
+submitted for publication in /*IEEE Transactions on Automatic Control*/, 2021.
+. Cooperative control of uncertain multi-agent systems via distributed Gaussian processes\n
+Armin Lederer, Zewen Yang, *Junjie Jiao*, and Sandra Hirche\n
+submitted for publication in /*IEEE Transactions on Automatic Control*/, 2021.
+. [https://arxiv.org/abs/2002.02830v1 $\mathcal{H}_2$ and $\mathcal{H}_\infty$ suboptimal distributed filter design for linear systems]\n
+*Junjie Jiao*, Harry L. Trentelman, and M. Kanat Camlibel\n
+submitted for publication in /*IEEE Transactions on Automatic Control*/, 2020. \[[https://arxiv.org/pdf/2002.02830.pdf PDF]\]
+
+
+== Distributed $H_2$ optimal control
+The text goes here...
+
+~~~
+{Selected publications:}
+See also [https://scholar.google.nl/citations?user=G7ok8mYAAAAJ&hl=en my Google Scholar profile] and [https://www.researchgate.net/profile/Junjie_Jiao3 my ResearchGate profile].
+~~~
+
+== Distributed optimal estimation
+The text goes here...
+
+~~~
+{Selected publications:}
+See also [https://scholar.google.nl/citations?user=G7ok8mYAAAAJ&hl=en my Google Scholar profile] and [https://www.researchgate.net/profile/Junjie_Jiao3 my ResearchGate profile].
+~~~
+
+
+. [https://www.sciencedirect.com/science/article/pii/S0167691121000025 $\mathcal{H}_2$ suboptimal output synchronization of heterogeneous multi-agent systems]\n
+ *Junjie Jiao*, Harry L. Trentelman, and M. Kanat Camlibel\n
+ /*Systems & Control Letters*/, Volume 149, 2021, 104872. \[[Jiao2021SCL.pdf PDF]\] 
+. [https://www.sciencedirect.com/science/article/pii/S0005109820303629 A suboptimality approach to distributed $\mathcal{H}_2$ control by dynamic output feedback]\n
+*Junjie Jiao*, Harry L. Trentelman, and M. Kanat Camlibel\n
+  /*Automatica*/, Volume 121, 2020, 109164. \[[Jiao2020Auto.pdf PDF]\]
+. [https://ieeexplore.ieee.org/document/8736845 A suboptimality approach to distributed linear quadratic optimal control]\n
+*Junjie Jiao*, Harry L. Trentelman, and M. Kanat Camlibel\n
+ /*IEEE Transactions on Automatic Control*/, Volume: 65, Issue: 3, 2020. \[[2020disLQ_TAC.pdf PDF]\] 
+. [https://ieeexplore.ieee.org/document/8734804 Distributed linear quadratic optimal control: compute locally and act globally]\n  
+*Junjie Jiao*, Harry L. Trentelman, and M. Kanat Camlibel\n
+/*IEEE Control Systems Letters*/, Volume: 4, Issue: 1, 2020. \[[2020LQLocally_LCSS.pdf PDF]\]
+
+
+== Conference papers
+. [https://arxiv.org/abs/2103.15929 Distributed learning consensus control for unknown nonlinear multi-agent systems based on Gaussian processes]\n
+Zewen Yang, Stefan Sosnowski, Qingchen Liu, *Junjie Jiao*, Armin Lederer, and Sandra Hirche\n
+accepted by the /* 60th IEEE Conference on Decision and Control*/, 2021. \[[https://arxiv.org/pdf/2103.15929.pdf PDF]\]
+. [https://arxiv.org/abs/2103.11851 Data-driven output synchronization of heterogeneous leader-follower multi-agent systems]\n
+*Junjie Jiao*, Henk J. van Waarde, Harry L. Trentelman, M. Kanat Camlibel, and Sandra Hirche\n
+accepted by the /* 60th IEEE Conference on Decision and Control*/, 2021. \[[https://arxiv.org/pdf/2103.11851.pdf PDF]\]
+. [https://arxiv.org/abs/1911.11611v1 Distributed linear quadratic tracking control for leader-follower multi-agent systems: a suboptimality approach]\n
+*Junjie Jiao*, Harry L. Trentelman, and M. Kanat Camlibel\n
+/*21st IFAC World Congress*/, July 2020. \[[https://arxiv.org/pdf/1911.11611.pdf PDF]\]
+. [https://www.sciencedirect.com/science/article/pii/S2405896318335596 A suboptimality approach to distributed $\mathcal{H}_2$ optimal control]\n
+*Junjie Jiao*, Harry L. Trentelman, and M. Kanat Camlibel\n
+*/7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NecSys18)/*, August 2018. \[[2018SubH2_state.pdf PDF]\] \[[2018Necsys.bib BibTeX]\]
+
+
+== PhD thesis
+- [https://www.rug.nl/research/portal/publications/distributed-linear-quadratic-control-and-filtering(cb566364-6e46-4f60-9330-73748ce69202).html Distributed Linear Quadratic Control and Filtering: a suboptimality approach]\n
+/*PhD thesis*/,
+University of Groningen, Groningen, The Netherlands, October 2020. \[[https://www.rug.nl/research/portal/files/135590407/Complete_thesis.pdf PDF]\]
+
+
+

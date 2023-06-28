@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{presentations.html}
+=Presentations
+
+== Oral presentations
+. Data-driven output synchronization of heterogeneous leader-follower multi-agent systems\n
+60th IEEE Conference on Decision and Control, Austin, Texas, USA (Online talk) \n
+December, 2021\n
+. [2021DataSynch.pdf Data-driven output synchronization of heterogeneous leader-follower multi-agent systems]\n
+46th workshop at Research Center for Complex Systems and Network Science, Southeast University, Nanjing, China (Online talk)\n
+May, 2021 \[[2021DataSynch.pdf Slides]\]
+. [2020ifac.pdf Distributed linear quadratic tracking control for leader-follower multi-agent systems: a suboptimality approach]\n 
+IFAC World Congress 2020, Berlin, Germany (Online talk) \n July, 2020 \[[2020ifac.pdf Slides]\]
+. [disH2controlSlides.pdf A suboptimality approach to distributed $\mathcal{H}_2$ optimal control by dynamic output feedback]\n 
+Chair of Information-Oriented Control, Technical University of Munich, Munich, Germany (Online talk) \n 
+May, 2020 \[[disH2controlSlides.pdf Slides]\] 
+. [DisFilterSlides.pdf $\mathcal{H}_2$  suboptimal distributed filter design for linear systems]\n 
+39th Benelux Meeting on Systems and Control, Elspeet, The Netherlands\n
+March, 2020 \[[DisFilterSlides.pdf Slides]\] 
+. [thinkLocallyslides.pdf Distributed linear quadratic optimal control: think locally and act globally]\n
+38th Benelux Meeting on Systems and Control, Lommel, Belgium\n
+March, 2019 \[[thinkLocallyslides.pdf Slides]\] 
+. [disLQslides.pdf A suboptimality approach to distributed linear quadratic optimal control]\n 
+37th Benelux Meeting on Systems and Control, Soesterberg, The Netherlands\n
+March, 2018 \[[disLQslides.pdf Slides]\] 
+
+== Poster presentations
+. [JiaoNecsys2018poster.pdf A suboptimality approach to distributed $\mathcal{H}_2$ optimal control]\n
+	7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NecSys18), Groningen, The Netherlands\n
+August, 2018 \[[JiaoNecsys2018poster.pdf Poster]\] 

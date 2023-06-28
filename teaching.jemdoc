@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{teaching.html}
+=Teaching
+
+~~~
+{*Networked Control Systems* (Vernetzte Regelungssysteme, 2021, 2022 \& 2023)}
+This is a summer semester course for master's students at the  Technical University of Munich. I was a  
+*guest lecturer* for the lectures on
+- Event-triggered control,
+- Distributed estimation,
+
+and a *teaching assistant* for the tutorials on
+- Flocking, formation control, and synchronization,
+- Coverage control,
+- Event-triggered control,
+- Distributed estimation.
+~~~
+
+
+~~~
+{*Advanced Nonlinear Control* (2022/23)}
+This is a winter semester course for master's students at the  Technical University of Munich. I was the  
+*teaching coordinator*. This course includes a number of advanced control topics, e.g.,
+- Preference-based Reinforcement Learning,
+- Stability/Control for Euler-Lagrange Systems,
+- Online Learning Control of Dynamical Systems,
+- Learning-based Control for Distributed Systems.
+~~~
+
+

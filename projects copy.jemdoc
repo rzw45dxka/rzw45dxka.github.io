@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{projects.html}
+=Projects
+
+
+
+== Distributed data-driven control of networked multi-agent systems with guarantees (DATA-MAS)
+
+~~~
+{}
+In the near future, teams of underwater robots will collaboratively collect waste from seafloor (currently performed by human divers) and restore healthy oceans. Similar multi-agent concepts can be extended to unmanned aerial vehicles or smart home devices, which lead to applications in environmental monitoring or internet of things. Multi-agent systems can achieve complex tasks that are difficult or impossible for single agents to solve. However, current control methods are very conservative as they require either known accurate agent models or enormous amounts of high-quality data. This is highly impractical, as (i) agents are becoming increasingly complex, which makes accurate models extremely difficult to obtain; and (ii) enormous amounts of data lead to expensive computation, which significantly slows down agent operation. To fully exploit the potential of multi-agent systems, control methods with efficient data use have to be developed. The objective of this project is therefore to develop optimal online distributed data-driven control algorithms for networked multi-agent systems with theoretical guarantees that use agent data much more efficiently than the existing solutions.
+~~~
+
+DATA-MAS is a Marie Skłodowska-Curie fellowship project, funded within the EuroTechPostdoc2 programme. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 899987.
+
+
+== Control and Optimization for Event-triggered Networked Autonomous Multi-agent Systems (COVEMAS)
+
+~~~
+{}
+Many tasks for modern robotic systems require the coordination of multiple interacting agents. Typical applications include amongst others search and rescue, surveillance coverage and environmental monitoring. The joint Sino-German research project COVEMAS, founded from DFG and NSFC, aims at reducing the energy cost of such cooperating multi-agent systems. Firstly, using the concept of event-triggered control, energy consumption in sensing and actuation can be drastically reduced. Secondly, the project studies the energy cost of the algorithms implemented to achieve the cooperative task and optimal controllers regarding this cost are designed.
+~~~
+
+COVEMAS is a joint Sino-German research project, funded by Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)  and National Natural Science Foundation of China (NSFC).
+

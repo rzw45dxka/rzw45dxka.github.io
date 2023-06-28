@@ -1,0 +1,109 @@
+# jemdoc: menu{MENU}{topics.html}
+=Research Topics
+
+
+
+== 1. Distributed Linear Quadratic Optimal Control for Linear Multi-Agent Systems
+
+~~~
+
+This part goes here.\n
+
+- A suboptimality approach
+- Decentralized computation
+
+~~~
+
+*Selected Publications*:
+- 1.
+- 2.
+
+== 2. Distributed $\mathcal{H}_2$ Optimal Control for Linear Multi-Agent Systems
+
+~~~
+
+This part goes here.\n
+
+- State feedback for homogeneous agents
+- Dynamic output feedback for homogeneous agents
+- Dynamic output feedback for heterogeneous agents
+
+~~~
+
+*Selected Publications*:
+- 1.
+- 2.
+- 3.
+
+== 3. $\mathcal{H}_2$ and $\mathcal{H}_\infty$ Suboptimal Distributed Filter Design for Linear Systems
+
+~~~
+
+This part goes here.
+~~~
+
+*Selected Publications*:
+- 1.
+
+== 4. Distributed Control for Linear Systems
+
+~~~
+
+This part goes here.\n
+
+- Distributed control
+- Distributed linear quadratic control
+- Distributed $\mathcal{H}_2$ optimal control
+
+~~~
+
+*Selected Publications*:
+- 1.
+
+== 5. Cooperative Optimal Output Regulation for Linear Multi-Agent Systems
+
+~~~
+
+This part goes here.\n
+
+- Inverse optimal control
+- A suboptimality approach
+
+~~~
+
+*Selected Publications*:
+- 1.
+
+== 6. Data-Driven Distributed Control for Linear Multi-Agent Systems
+
+~~~
+
+This part goes here.\n
+
+- Consensusability, if and only if condition
+- A method to compute the local gain matrices, state feedback, output feedback
+- Data-driven Riccati equation
+- Data-driven passivity
+
+
+~~~
+
+*Selected Publications*:
+- 1.
+
+
+== 7. On Sample Complexity for Linear Quadratic Regulator and Markovian Jump Systems
+
+~~~
+
+This part goes here.\n
+
+- [https://arxiv.org/abs/1710.01688 On the Sample Complexity of the Linear Quadratic Regulator]
+- [https://arxiv.org/abs/2002.04090v1 Convergence Guarantees of Policy Optimization Methods for Markovian Jump Linear Systems]
+
+
+~~~
+
+*Selected Publications*:
+- 1.
+

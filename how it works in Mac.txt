@@ -1,0 +1,6 @@
+python jemdoc.py -c mysite.conf index.jemdoc
+python jemdoc.py -c mysite.conf m2019.jemdoc
+python jemdoc.py -c mysite.conf m2020.jemdoc
+python jemdoc.py -c mysite.conf m2021.jemdoc
+python jemdoc.py -c mysite.conf m2022.jemdoc
+python jemdoc.py -c mysite.conf m2023.jemdoc
